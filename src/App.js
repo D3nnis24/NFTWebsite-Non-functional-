@@ -1,9 +1,10 @@
 import './App.css';
+import NFTCarousel from './Components/NFTCarousel/NFTCarousel';
 
 function App() {
   return (
     <div>
-      <h1>Testing</h1> 
+      <NFTCarousel /> 
     </div>
   );
 }
