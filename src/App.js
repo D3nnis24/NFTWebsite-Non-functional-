@@ -1,9 +1,9 @@
 import './App.css';
-
+import NavBar from './Components/NFTNavBar/NFTNavBar';
 function App() {
   return (
     <div>
-      <h1>Testing</h1> 
+      <NavBar />
     </div>
   );
 }
