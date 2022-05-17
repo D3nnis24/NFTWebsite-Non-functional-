@@ -1,9 +1,10 @@
 import './App.css';
+import NFTSocials from "./Components/NFTSocials/NFTSocials";
 
 function App() {
   return (
     <div>
-      <h1>Testing</h1> 
+      <NFTSocials />
     </div>
   );
 }
